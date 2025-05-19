@@ -36,6 +36,5 @@ nltk>=3.6.0
 emoji>=1.7.0
 
 # Machine learning
-transformers==4.21.0
-numpy==1.21.6
+numpy==1.22.4
 
